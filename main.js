@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
 
       var lines = [
-        'طلب عرض سعر جديد من موقع الرهوان السريع',
+        'طلب عرض سعر جديد من موقع الرهوان المتميز',
         'الاسم: ' + name,
         'الجوال: ' + phone,
         city ? 'المدينة/المنطقة: ' + city : '',
